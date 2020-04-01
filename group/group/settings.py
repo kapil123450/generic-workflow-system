@@ -98,15 +98,7 @@ DATABASES = {
     }
 }
 
-DATABASES = {
-        'default': {
-        'ENGINE': 'djongo',
-        'NAME': 'my_db',
-        'HOST': 'mongodb+srv://amank214:project214@cluster0-txtjb.mongodb.net/test?retryWrites=true&w=majority',
-        'USER': 'amank214',
-        'PASSWORD': 'project214',
-    }
-}
+
 '''
 
 # Password validation
